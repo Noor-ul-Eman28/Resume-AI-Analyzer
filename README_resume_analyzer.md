@@ -55,10 +55,6 @@ This can be swapped out for any job description by editing the AI Agent's system
 - LangChain Information Extractor
 - JavaScript (Code nodes for parsing and formatting)
 
-## Workflow Diagram
-
-![Workflow Diagram](workflow-diagram.png)
-
 ## Files in This Repo
 
 - `Resume_Analyzer.json` — full exported n8n workflow, importable directly into any n8n instance
